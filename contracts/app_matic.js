@@ -14,7 +14,7 @@ const matic = new Matic({
 
 matic.wallet = config.PRIVATE_KEY // prefix with `0x`
 
-const amount = '1000000000000000000' // amount in wei
+const amount = '10000000000000000' // amount in wei
 
 // Approve token
 matic

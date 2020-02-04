@@ -5,14 +5,14 @@
         <ul>
           <li>
             <a href="#">
-              Servico
+              Auxilium
             </a>
           </li>
         </ul>
       </nav>
       <div class="copyright pull-right">
         &copy;
-        <a href="https://www.startupweekendjaipur.com" target="_blank">Servico</a>.
+        <a href="#" target="_blank">Auxilium</a>.
       </div>
     </div>
   </footer>

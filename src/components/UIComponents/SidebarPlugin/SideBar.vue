@@ -41,7 +41,7 @@
     props: {
       title: {
         type: String,
-        default: 'Servico'
+        default: 'Auxilium'
       },
       type: {
         type: String,
